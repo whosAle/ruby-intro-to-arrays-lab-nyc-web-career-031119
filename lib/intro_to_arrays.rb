@@ -11,7 +11,7 @@ def first_element(list)
 end
 
 def third_element(list)
-  list[2]  
+  list[2]
 end
 
 def last_element(list)
